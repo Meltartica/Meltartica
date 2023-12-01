@@ -18,6 +18,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meltartica&show_icons=true&theme=dark&locale=en&layout=compact" alt="meltartica" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meltartica&show_icons=true&theme=dark&locale=en" alt="meltartica" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=meltartica&show_icons=true&theme=dark&locale=en" alt="meltartica" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meltartica&theme=dark" alt="meltartica" /></p>
