@@ -87,6 +87,8 @@ My GitHub is a **[collection](https://github.com/Meltartica?tab=repositories)** 
 
 ### 📊 GitHub Stats
 
+> Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 <p>
   <img src="https://raw.githubusercontent.com/Meltartica/github-stats-transparent/output/generated/overview.svg" alt="meltartica" />
   <img src="https://raw.githubusercontent.com/Meltartica/github-stats-transparent/output/generated/languages.svg" alt="meltartica" />
@@ -96,8 +98,6 @@ My GitHub is a **[collection](https://github.com/Meltartica?tab=repositories)** 
   <summary>Want to See More?</summary>
   
 #### 🔥 Streak Statistics
-
-> Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <picture>
   <source
