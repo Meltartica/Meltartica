@@ -2,9 +2,11 @@
 
 ### 👋 Welcome to My World
 
+Thanks for stopping by! I'm **Win**, a passionate Computer Engineering student from De La Salle University - Manila. Before we continue, I'd like to share a short quote that motivates me every day.
+
 > “Life is an interesting experience, take your time to discover your potential.”
 
-Thanks for stopping by! I'm **Win**, a passionate Computer Engineering student from De La Salle University - Manila. My GitHub is a collection of academic projects, personal projects, and collaborative efforts that reflect my growth in the world of tech. Feel free to check out my stars since you might find repositories you also like!
+My GitHub is a **[collection](https://github.com/Meltartica?tab=repositories)** of academic projects, personal projects, and collaborative efforts that reflect my growth in the world of tech. Feel free to check out my **[starred](https://github.com/Meltartica?tab=stars)** repositories — you might find something you like too!
 
 ---
 
@@ -90,8 +92,6 @@ Thanks for stopping by! I'm **Win**, a passionate Computer Engineering student f
   <img src="https://raw.githubusercontent.com/Meltartica/github-stats-transparent/output/generated/languages.svg" alt="meltartica" />
 </p>
 
-### 
-  
 <details>
   <summary>Want to See More?</summary>
   
